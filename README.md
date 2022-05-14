@@ -1,2 +1,4 @@
 # FastAPI
-Small projects to learn the basics of backend development of a website using FastAPI as Web framework.
+## Day 1
+<img src="docs/day1.gif" alt="Description for image" width="450" height="550"><br>
+## Day 2
